@@ -4,6 +4,11 @@ This project uses a javascript API to access a publicly-available dataset of sto
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
+## Download the Repository
+1. Clone [this repository](https://github.com/MarkStrickland562/BikeSearch):
+
+       $ git clone https://github.com/MarkStrickland562/BikeSearch.git
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
